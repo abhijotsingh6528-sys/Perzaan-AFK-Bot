@@ -6,12 +6,13 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "PLAYBG-SMP.aternos.me",
+    "port": 37348,
     "version": "1.21.1"
   },
   "position": {
     "enabled": true,
+    
     "x": 0,
     "y": 100,
     "z": 0
